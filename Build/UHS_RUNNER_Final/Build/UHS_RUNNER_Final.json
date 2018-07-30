@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "UHS_RUNNER_Final.data.unityweb",
+"asmCodeUrl": "UHS_RUNNER_Final.asm.code.unityweb",
+"asmMemoryUrl": "UHS_RUNNER_Final.asm.memory.unityweb",
+"asmFrameworkUrl": "UHS_RUNNER_Final.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

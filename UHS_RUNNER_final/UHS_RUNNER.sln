@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHS_RUNNER", "UHS_RUNNER.csproj", "{0975B425-F5EE-15F7-4BF6-5FD4081ED00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHS_RUNNER.Editor", "UHS_RUNNER.Editor.csproj", "{D574CB42-E6EE-951B-00EB-ED6A8C49E4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0975B425-F5EE-15F7-4BF6-5FD4081ED00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0975B425-F5EE-15F7-4BF6-5FD4081ED00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0975B425-F5EE-15F7-4BF6-5FD4081ED00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0975B425-F5EE-15F7-4BF6-5FD4081ED00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D574CB42-E6EE-951B-00EB-ED6A8C49E4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D574CB42-E6EE-951B-00EB-ED6A8C49E4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D574CB42-E6EE-951B-00EB-ED6A8C49E4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D574CB42-E6EE-951B-00EB-ED6A8C49E4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
